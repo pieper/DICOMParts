@@ -7,7 +7,7 @@ setup(
     author='Steve Pieper',
     author_email='pieper@isomics.com',
     url='https://github.com/pieper/DICOMParts',
-    packages=['dicomparts'],
+    packages=['DICOMParts'],
     install_requires=[
         'pydicom',
     ],

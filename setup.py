@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='dicomparts',
+    name='DICOMParts',
     version='0.1.0',
     description='A set of parts for working with DICOM',
     author='Steve Pieper',
